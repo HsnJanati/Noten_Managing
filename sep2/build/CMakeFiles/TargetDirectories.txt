@@ -1,3 +1,0 @@
-/home/hjrust/mypr for cpp/sep2/build/CMakeFiles/noten.dir
-/home/hjrust/mypr for cpp/sep2/build/CMakeFiles/edit_cache.dir
-/home/hjrust/mypr for cpp/sep2/build/CMakeFiles/rebuild_cache.dir

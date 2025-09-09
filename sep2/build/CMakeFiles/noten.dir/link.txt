@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/noten.dir/main.cpp.o CMakeFiles/noten.dir/gradmanager.cpp.o -o noten 
